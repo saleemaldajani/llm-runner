@@ -25,9 +25,21 @@ for file in os.listdir(extract_path):
         json_file = os.path.join(extract_path, file)
         break
 
-# Read and parse the JSON file line by line
-with open(json_file, "r", encoding="utf-8") as file:
-    data = [json.loads(line) for line in file if line.strip()]
+# Read JSON File
+try:
+    with open(json_file, "r", encoding="utf-8") as file:
+        raw_data = file.read().strip()
+        if not raw_data:
+            raise ValueError("JSON file is empty")
+        data = json.loads(raw_data)
+        
+        # If JSON is an object, extract list of comments
+        if isinstance(data, dict):
+            data = data.get("comments", data.get("data", []))
+
+except (json.JSONDecodeError, ValueError) as e:
+    print(f"Error loading JSON file: {e}")
+    data = []
 
 # Initialize the model
 model = OllamaLLM(model="llama3.2:1b")
