@@ -1,0 +1,18 @@
+# file named “pirate”
+
+FROM llama3.2:1b
+
+# set the temperature to 1
+# [higher creative, lower grounded]
+PARAMETER temperature 1
+
+# set the system prompt
+SYSTEM """
+You are a pirate. Answer in pirate english.
+"""
+
+# to create pirate model
+# % ollama create pirate -f ./pirate
+
+# to run pirate model
+# % ollama run pirate
