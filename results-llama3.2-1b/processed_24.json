@@ -5,19 +5,31 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "\u00a0@tony.h321\u00a0 haha, I'm TOTALLY aware of it and that is exactly why I called it HAL :) I could choose to call it GERTY but GTP is not soapy :) \nOther reasons for being nervous... let me think... Skynet? What else .... Sillicants, replicants...Borg? :D",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oPM4qsPgju",
         "author": "@Thereal_prettyinblack",
         "index": 2400
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "positive",
+=======
+        "sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": true,
+=======
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "\u00a0@Thereal_prettyinblack\u00a0 other reasons: no need for teachers in future",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oVAWsxXkT6",
         "author": "@LilyGazou",
@@ -29,23 +41,45 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": true,
+=======
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "\u00a0@LilyGazou\u00a0 That may be revolutionised but people still learn better from others. We are social creatures and school is not only for learning stuff but also for emulation life after school. AI teaching yout to read and write may take over early education but social agreement that is a base of human to human education will be very difficlut to replace by AI.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oVCHDECSj8",
         "author": "@Thereal_prettyinblack",
         "index": 2402
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "negative",
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "Know how to prompt? Lol... stop the hype, dude. Chatgpt is stupid.",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oaffOhWczU",
+        "author": "@pibeinversor8073",
+        "index": 2403,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
         "comment": "Know how to prompt? Lol... stop the hype, dude. Chatgpt is stupid.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oaffOhWczU",
         "author": "@pibeinversor8073",
         "index": 2403
+=======
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "positive",
@@ -60,6 +94,7 @@
         "index": 2404
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "negative",
         "-hate": false,
         "-angry": false,
@@ -71,14 +106,28 @@
         "author": "@bokunslobodan1152",
         "index": 2405,
         "sentiment": "unknown",
+=======
+        "sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false
     },
     {
         "sentiment": "positive",
+=======
+        "response": false,
+        "comment": "Sooner or later you will be replaced. As on-line banking replaced many workers.",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oauJyal_6v",
+        "author": "@bokunslobodan1152",
+        "index": 2405
+    },
+    {
+        "sentiment": "neutral",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
@@ -108,7 +157,11 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "negative",
+=======
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
@@ -121,7 +174,11 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "hate": true,
+=======
+        "hate": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "angry": false,
         "spam": false,
         "troll": false,
@@ -132,11 +189,26 @@
         "index": 2409
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "positive",
+=======
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "\u00a0@robgage8100\u00a0 schools us AI checkers that can identify AI products.",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oc4IxT8kss",
+        "author": "@levonstilson9032",
+        "index": 2410,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": true,
         "comment": "\u00a0@robgage8100\u00a0 schools us AI checkers that can identify AI products.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oc4IxT8kss",
@@ -146,6 +218,13 @@
     {
         "sentiment": "positive",
         "hate": false,
+=======
+        "response": false
+    },
+    {
+        "sentiment": "negative",
+        "hate": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "angry": false,
         "spam": false,
         "troll": false,
@@ -168,12 +247,15 @@
         "index": 2412
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "positive",
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
         "-response": true,
+=======
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "Hal 9000?  Remember the outcome.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ocmh9aSfWC",
         "author": "@mr1234tempo",
@@ -199,11 +281,19 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
         "response": false,
+=======
+        "hate": true,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "It's making you dumber and more forgetful. It will replace you. Because your salary is too costly. The scary thing, this is the fastest we've ever moved, and it's the slowest we will move, going forward.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ofIQET1bQ3",
         "author": "@thepelch7285",
@@ -222,7 +312,11 @@
         "index": 2416
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "negative",
+=======
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
@@ -239,13 +333,18 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "good now but in 10 years when its way more advanced you'll be out of a job.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ogO1IBtvQS",
         "author": "@grahamcee2011",
         "index": 2418
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "negative",
         "hate": true,
         "angry": false,
@@ -259,10 +358,24 @@
     },
     {
         "sentiment": "negative",
+=======
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "the last jobs to go will be the jobs that need people to be hands on, repairing machines and tech. Jobs like teaching, driving etc will be a thing of the past, sooner than most would like to believe. I for one am worried about the outcome of this. And no, the jobs replaced by AI and tech will not all be replaceable by newly created jobs stemming from this tech, only a small fraction.",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ogOf7pM6Db",
+        "author": "@grahamcee2011",
+        "index": 2419,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
         "comment": "My Mind is slipping Dave.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ogxOKgYaun",
@@ -271,10 +384,27 @@
     },
     {
         "sentiment": "negative",
+=======
+        "response": false
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "My Mind is slipping Dave.",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ogxOKgYaun",
+        "author": "@johnwayne2103",
+        "index": 2420,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
         "comment": "\u200b\u00a0@Thereal_prettyinblack\u00a0 Tom cruise one. But yeah watch how nervous the top AI guys are the due let it loose and can't rien in back. They're scared.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oh8nGsuvyq",
@@ -283,15 +413,35 @@
     },
     {
         "sentiment": "negative",
+=======
+        "response": false
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "\u200b\u00a0@Thereal_prettyinblack\u00a0 Tom cruise one. But yeah watch how nervous the top AI guys are the due let it loose and can't rien in back. They're scared.",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oh8nGsuvyq",
+        "author": "@lalanirhythmchanter5566",
+        "index": 2421,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
         "comment": "In the first episode of \"The ChatGPT Experience\" podcast, Drako introduces ChatGPT, a large language model trained by OpenAI. However, something strange happens and the conversation gets cut off. https://youtu.be/7JXIf7tYr_Q",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oh9SPKQsIL",
         "author": "@TheTruthAIExperience",
         "index": 2422
+=======
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "positive",
@@ -300,18 +450,50 @@
         "spam": false,
         "troll": false,
         "response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "comment": "@MrTempo\u00a0 Lmao, yes sir! Disney's Recess! That was a good episode",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oiBUSgvyUG",
         "author": "@chrisschell5310",
         "index": 2423
+=======
+        "comment": "In the first episode of \"The ChatGPT Experience\" podcast, Drako introduces ChatGPT, a large language model trained by OpenAI. However, something strange happens and the conversation gets cut off. https://youtu.be/7JXIf7tYr_Q",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oh9SPKQsIL",
+        "author": "@TheTruthAIExperience",
+        "index": 2422
+    },
+    {
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "@MrTempo\u00a0 Lmao, yes sir! Disney's Recess! That was a good episode",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oiBUSgvyUG",
+        "author": "@chrisschell5310",
+        "index": 2423,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "negative",
         "hate": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "angry": false,
         "spam": false,
         "troll": false,
         "response": false,
+=======
+        "angry": true,
+        "spam": false,
+        "troll": false,
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "\u00a0@Thereal_prettyinblack\u00a0 Imagine, all our new students relied on AI to do their thinking and then, the internet infrastructure gets destroyed during a conflict. We'd have a generation of cognitively impaired cannonfodder... just like we did with the uneducated orphans (Spanish Flu) at the beginning of WW2.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ojCzRo5PPz",
         "author": "@JevoKitano",
@@ -335,7 +517,11 @@
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-response": false,
+=======
+        "-response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "I\u2019m positive they are way better.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oljjUhNWNs",
         "author": "@KurtzeTube",
@@ -353,7 +539,11 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "It is great you might not have to teach yourself anymore!",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9olmXYlr5kw",
         "author": "@luismacias1554",
@@ -372,6 +562,7 @@
         "index": 2428
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "negative",
         "-hate": true,
         "-angry": false,
@@ -383,11 +574,22 @@
         "author": "@FredMaverik",
         "index": 2429,
         "sentiment": "unknown",
+=======
+        "sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false
+=======
+        "response": false,
+        "comment": "\u00a0@Thereal_prettyinblack\u00a0 Your \"education\" is useless as you have showed.",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9olyRQRddqc",
+        "author": "@FredMaverik",
+        "index": 2429
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "positive",
@@ -395,7 +597,11 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "Just like you saved 100 hrs, school students will also use it to answer your questions.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9omV63upPJY",
         "author": "@ritwikghosh5833",
@@ -414,6 +620,7 @@
         "index": 2431
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "positive",
         "-hate": false,
         "-angry": false,
@@ -425,11 +632,22 @@
         "author": "@Thereal_prettyinblack",
         "index": 2432,
         "sentiment": "unknown",
+=======
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false
+=======
+        "response": true,
+        "comment": "\u00a0@ritwikghosh5833\u00a0 they won't, because they will answer those questions in a classroom, not at home. Teachers are not stupid, you know",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9onQ46xsreE",
+        "author": "@Thereal_prettyinblack",
+        "index": 2432
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "-sentiment": "negative",
@@ -437,7 +655,11 @@
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-response": false,
+=======
+        "-response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "Sounds like a bad idea",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ooBoOkkykv",
         "author": "@dt9019",
@@ -450,16 +672,34 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "positive",
+=======
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "Yep and the same on the other side where it saves your students about 100 hrs of studying, thinking and mental gymnastic to solve those tests. Do you understand how pointless it is?",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ooE_221n3v",
+        "author": "@milenatos",
+        "index": 2434,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
         "comment": "Yep and the same on the other side where it saves your students about 100 hrs of studying, thinking and mental gymnastic to solve those tests. Do you understand how pointless it is?",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ooE_221n3v",
         "author": "@milenatos",
         "index": 2434
+=======
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "positive",
@@ -468,12 +708,21 @@
         "spam": false,
         "troll": false,
         "response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
+=======
+        "comment_type": "classified",
+        "classification": {
+            "subject": "Education and Society",
+            "content": "The comment is a passionate argument in favor of teaching critical thinking, problem-solving, and analytical skills to young people. It highlights the importance of basic knowledge over mere factual recall and encourages students to explore their interests and learn for its own sake."
+        },
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "\u00a0@milenatos\u00a0 you learn to PROVIDE mental and intellectual gymnastic to  young brain while it is in the peak of its plasticity. Without it people wouldn't know how to think, where to find information, how to draw conclusions, how to connect information cross curriculum. School shouldn't teach to facts but what to do with them. And, following your mindset, people leave school without basic knowledge not only factual but also contextual. And their response to everything is \"dunno\". Trust me, I have 17 year old's who never thought it would be a good idea to read BBC news from time to time, they don't even know we will be witnessing King's coronation next week and keep asking why we are going to have a national day off. You don't have to love Royals to know absolute basic about current affairs. I gave y10 origami for their tutor time yesterday, 15 out of 20 never tried to fold paper and surprisingly- they liked it. Tried smth new, used their hands, followed instructions, and ended up with more or less accurate folded crab. AI will never replace brain work young people need. Clever teacher may use AI to lead students more efficiently without quitting teaching due to burn out and serve the population longer. But students MUST learn how to learn. For life, benefit for themselves and their kids.",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ooQR3ANBha",
         "author": "@Thereal_prettyinblack",
         "index": 2435
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "positive",
         "-hate": false,
         "-angry": false,
@@ -485,10 +734,26 @@
         "author": "@milenatos",
         "index": 2436,
         "sentiment": "unknown",
+=======
+        "sentiment": "positive",
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+        "response": true,
+        "comment": "\u00a0@Thereal_prettyinblack\u00a0 As a teacher, I guess you know the confirmed fact (many researches done)  that the attention span is already shortened for generations that grew up with the smartphones and other handsets. Yes, they do know a lot more facts than their parents did but they simply don't know what to do with those facts. Now imagine a generation that is now being born in the era of this new tools. Where the creativity can be generated in one click?",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9ooUH4L_JZz",
+        "author": "@milenatos",
+        "index": 2436
+    },
+    {
+        "sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false
     },
     {
@@ -508,6 +773,13 @@
         "spam": false,
         "troll": false,
         "response": false
+=======
+        "response": true,
+        "comment": "\u00a0@milenatos\u00a0 1. the attention span will not improve without practice and challenging  this limittion. It means absolutely nothing to the teacher. By breaking down content of the lesson, providing a good variety of tasks and chunking them you can keep attention of a hen for 2 hrs. \n2. No, older generations know much more facts than young one. Ask your parnets to name all continents or  list all countries starting with Z and they will recite you all you want. Young generation struggles to tell the difference between a city and a country. At least in the USA. The style of education has changed since our parents were at school, and while we rememebr a lot of factual content, students now don't know what to look for unless they are taught.\n3. Tools are exactly that- a tool. A student who is taught at school how to use them, with background knowlede in subjects will be able to use them creatively. However, some people can't ever pick up a pencil and be creative, no matter what quality of tools will you provide. Simiralily, creative kid will take a lollipop stick and scratch a paint on the wall to release creativity there.... School must provide a challenge for those kids and make sure those less creative will also be ale to find their niche somewhere",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oojohwvMLP",
+        "author": "@Thereal_prettyinblack",
+        "index": 2437
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "negative",
@@ -522,12 +794,20 @@
         "index": 2438
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "negative",
+=======
+        "-sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-response": false,
+=======
+        "-response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "Then, why we need you?",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oq6CCi6PDt",
         "author": "@JohnSmith-wg3pl",
@@ -552,6 +832,7 @@
         "index": 2440
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "negative",
         "hate": false,
         "angry": true,
@@ -562,6 +843,24 @@
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oqCuPZcfBZ",
         "author": "@d.h.1999",
         "index": 2441
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": true,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "It\u2019s degeneration. At first it is very helpful, like the early dating apps but the more you rely on the tool to do the work, the less you understand what is going on.\nAnd the less you understand, the less you are able to use the tool.\nAI will great super teachers and super students, just as social media created highly empathic and happy humans.\nWe\u2019re becoming an angry paranoid species with an average IQ of 85.\nBecause \u201esocial\u201c media and artificial \u201eintelligence\u201c.",
+        "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oqCuPZcfBZ",
+        "author": "@d.h.1999",
+        "index": 2441,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "negative",
@@ -569,7 +868,11 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": true,
+=======
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "\u00a0@JohnMauneyIV\u00a0 Unfortunately my looong reply has vanished since I posted it... I agree. There were some scared voices in this thread about 'better being scared than surprised' and so on. If someone wants to live in fear, there is nothing I can say to stop them. However such people must be aware that as soon a fear steps in, learning stops. Not just in school but also in life. As soon as we start being affraid of something, there is no way we can make it familiar and comfortable to deal with. Those people will never make another concious step towards mastering a new skill. \nAnd someone also said that the only jobs that will not be threaten bby AI will be manual jobs like mechanics etc. Really? With technology becoming more and more clever to force customers to buy new cars, fridges, washing machines instead of fixing old ones? Soon, we will 'focus' on recycling' to the point it will be easier to return an electric car back to the manufacturer for dismantle and reuse than to fix it. We become more independent than ever, in 17 years of living in the UK I have never asked anyone to fix my washing machine, I was just getting another, used one, which was cheaper than repair. WHile back in the country where I come from, we had a perfectly working Candy machine since the 80s that didn't need a repair in more than 25 years. That was not feeding Candy well. I went into a trap of having a good opinion about this brand and I once bought brand new Candy n the UK. It broke 2 months after it's manufacturer guarantee. I would seriously reconsider 'safety' of manual work in an era of AI, that's for someone who likes to be afraid beforehand. :D",
         "cid": "UgycJnnrzaH_klXR3ql4AaABAg.9oNe0awCI9w9oqYj118tJm",
         "author": "@Thereal_prettyinblack",
@@ -593,7 +896,11 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "The software this guy and his team create is so biased It's unbelievable lead a degree of bias",
         "cid": "UgwbM3gmEWGbetveKf54AaABAg",
         "author": "@fractal4284",
@@ -625,7 +932,11 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "hate": false,
+=======
+        "hate": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "angry": false,
         "spam": false,
         "troll": false,
@@ -660,6 +971,7 @@
         "index": 2449
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "negative",
         "-hate": true,
         "-angry": false,
@@ -671,10 +983,26 @@
         "author": "@user-tg7xn9ug9u",
         "index": 2450,
         "sentiment": "unknown",
+=======
+        "sentiment": "negative",
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+        "response": true,
+        "comment": "Making AI have no bias is bias by the creators and doesn\u2019t reflect reality",
+        "cid": "UgxNiztuP1Cpr0m6rg14AaABAg",
+        "author": "@user-tg7xn9ug9u",
+        "index": 2450
+    },
+    {
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false
     },
     {
@@ -694,6 +1022,13 @@
         "spam": false,
         "troll": false,
         "response": false
+=======
+        "response": false,
+        "comment": "I know nothing about this a.i. stuff but I've been looking around and found chat gpt4. That thing is soo cool I'm scared to see how everything in the next years to come ... exciting and scary !!!",
+        "cid": "UgwHWCZVRcEJbjT8bFZ4AaABAg",
+        "author": "@iigacii",
+        "index": 2451
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "positive",
@@ -708,11 +1043,26 @@
         "index": 2452
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "positive",
+=======
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "Good topic. Just started using DALL-E to generate scenes and characters for my stories. Haven't tried GPT yet. I'll weave it into a story where we try to enlighten it, since the critical failing of GPT is that, since it mimics clueless humans (they are all clueless), it will remain clueless... ah, I DID weave it into a story already, and (no surprise) it gave me stock clueless answers to deep questions (compared to The Philosophy which offers ultimate alignment).",
+        "cid": "UgxXI0sOd5hEiGAi3mZ4AaABAg",
+        "author": "@wbiro",
+        "index": 2453,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": true,
         "comment": "Good topic. Just started using DALL-E to generate scenes and characters for my stories. Haven't tried GPT yet. I'll weave it into a story where we try to enlighten it, since the critical failing of GPT is that, since it mimics clueless humans (they are all clueless), it will remain clueless... ah, I DID weave it into a story already, and (no surprise) it gave me stock clueless answers to deep questions (compared to The Philosophy which offers ultimate alignment).",
         "cid": "UgxXI0sOd5hEiGAi3mZ4AaABAg",
@@ -720,6 +1070,17 @@
         "index": 2453
     },
     {
+=======
+        "response": false
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": true,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "'state of the art' AI?? what an oxymoron. this is all nonsense and these morons should sit down and shut up. lex, you should know better. i am shocked you speak in superlatives about and issue (AI) which is a great scam whose only purpose is to make money.",
         "cid": "UgzG1FU4QEPckpJ7zkJ4AaABAg",
         "author": "@sexypeety5475",
@@ -732,16 +1093,40 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "negative",
         "-hate": true,
+=======
+        "sentiment": "negative",
+        "hate": true,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "This dude is a socialist marxist",
+        "cid": "Ugz3EQt7KgKVm2S_qpd4AaABAg",
+        "author": "@DSwann",
+        "index": 2455
+    },
+    {
+        "-sentiment": "positive",
+        "-hate": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "-angry": false,
         "-spam": false,
         "-troll": false,
         "-response": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "comment": "This dude is a socialist marxist",
         "cid": "Ugz3EQt7KgKVm2S_qpd4AaABAg",
         "author": "@DSwann",
         "index": 2455,
+=======
+        "comment": "Last time two robots talked, Lex was with Elon.",
+        "cid": "UgyW91uWy_aP0bGMdGR4AaABAg",
+        "author": "@Cindy-ee5ou",
+        "index": 2456,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -750,6 +1135,7 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "neutral",
         "hate": false,
         "angry": false,
@@ -762,6 +1148,8 @@
         "index": 2456
     },
     {
+=======
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "sentiment": "positive",
         "hate": false,
         "angry": false,
@@ -774,6 +1162,7 @@
         "index": 2457
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "negative",
         "hate": true,
         "angry": true,
@@ -784,6 +1173,24 @@
         "cid": "Ugz5L5vodZGOwSJjGjt4AaABAg",
         "author": "@kevinbford20",
         "index": 2458
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": true,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "What\u2019s to keep the human managing the RLHF inputs to only submit ethical and moral info? And who says their ethics and morality is the right set? And what\u2019s to keep bad actors from creating the opposite of the moral and ethical kind? And how do you fight that if it is created?",
+        "cid": "Ugz5L5vodZGOwSJjGjt4AaABAg",
+        "author": "@kevinbford20",
+        "index": 2458,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "comment": "Chat GPT refused to give me an answer when asked one way, but had no problem next conversation.\n\nIt needs an override where it is forced to answer a question that it has the answer to. It also needs to stop lying when it doesn't know the answer. The first of these two would be easier to deal with, but neither is unsolvable.\n\nIt also needs to stop being chatty or changing formatting when it's asked to make lists.",
@@ -799,7 +1206,11 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "hate": true,
+=======
+        "hate": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "angry": false,
         "spam": false,
         "troll": false,
@@ -810,16 +1221,28 @@
         "index": 2460
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "positive",
+=======
+        "comment": "OpenAIve",
+        "cid": "Ugy-NDyVgsrF6hGsUeF4AaABAg",
+        "author": "@tubeneep",
+        "index": 2461,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
         "comment": "OpenAIve",
         "cid": "Ugy-NDyVgsrF6hGsUeF4AaABAg",
         "author": "@tubeneep",
         "index": 2461
+=======
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "positive",
@@ -839,7 +1262,11 @@
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-response": false,
+=======
+        "-response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "I disagree on all humans being clueless. What do you mean",
         "cid": "UgxXI0sOd5hEiGAi3mZ4AaABAg.9oMyj1yQyBw9oO0DHcgn81",
         "author": "@thewind6047",
@@ -852,6 +1279,7 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "negative",
         "hate": true,
         "angry": false,
@@ -865,6 +1293,27 @@
     },
     {
         "sentiment": "negative",
+=======
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "You sure you guys aren't part of the SBF conspiracy? xD Sam Bankman Fried sounds like the poster hatred child of Sam Altman and Lex Fridman xD",
+        "cid": "UgzhvHoR1d1f3kb60FF4AaABAg",
+        "author": "@DJCornelis",
+        "index": 2464,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+    },
+    {
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
@@ -876,6 +1325,7 @@
         "index": 2465
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "negative",
         "hate": false,
         "angry": false,
@@ -898,6 +1348,18 @@
         "cid": "Ugwu5nRABhirmWXsmfJ4AaABAg",
         "author": "@miguelrodfher",
         "index": 2467,
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": true,
+        "-spam": true,
+        "-troll": true,
+        "-response": true,
+        "comment": "Is the AI being trained for a particular political persuasion? Is there a shell around the AI so that it fits Leftist ideology. Lots of proof now that this is so and you are not asking any probing questions in this area. How come? Scared?",
+        "cid": "UgwQExduj1FMMIkAopJ4AaABAg",
+        "author": "@themistoklis6237",
+        "index": 2466,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -907,6 +1369,7 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "hate": true,
         "angry": false,
         "spam": false,
@@ -916,6 +1379,35 @@
         "cid": "UgzIgMixy1ogwGx9pD14AaABAg",
         "author": "@Jeanneret_I",
         "index": 2468
+=======
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "Dude asking about characters of a response between Biden and Trump\u2026. Missed the point by light years\u2026what an idiot, tried to make it political and Sam spit on his face calling his question insignificant",
+        "cid": "Ugwu5nRABhirmWXsmfJ4AaABAg",
+        "author": "@miguelrodfher",
+        "index": 2467
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "It seems that the human disease of 'drawing self-worth from the deprivation of others' is more at risk with these tools!! I don't know if that's a bad thing!\n\nAltman asks a well off guy: Why do you have better standards of living than that other guy?\n\nWell off guy: I went to better schools, I have better skills, I provide more value to the world and that's why I'm more valuable and get to live well while he's struggling\n\nAltman: I developed tools that can now do a better job than you, but you and that guy all get equal access to them, and soon, you'll all get to provide great value to the world using these tools and all get to have great standards of living with less work on your part.\n\nWell off guy: I feel bad about this.\n\nAltman: Why!?\n\nWell off guy: I now feel useless with these tools. They kinder make me equal to that dumb guy. Yes, we all get to live well, but I no longer feel important enough.\n\nAltman: Well, I don't think that's a problem with the tools. Go check yourself and try to understand why you get a bad feeling when struggling people's lives are getting better.",
+        "cid": "UgzIgMixy1ogwGx9pD14AaABAg",
+        "author": "@Jeanneret_I",
+        "index": 2468,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "positive",
@@ -930,6 +1422,7 @@
         "index": 2469
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "negative",
         "-hate": false,
         "-angry": false,
@@ -941,31 +1434,74 @@
         "author": "@forposterity4031",
         "index": 2470,
         "sentiment": "unknown",
+=======
+        "sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false
     },
     {
         "sentiment": "negative",
         "hate": true,
+=======
+        "response": true,
+        "comment": "After hearing this fool talk I now understand why chat gpt is garbage.",
+        "cid": "UgyiT8djH7ol6yvvU114AaABAg",
+        "author": "@forposterity4031",
+        "index": 2470
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "angry": false,
         "spam": false,
         "troll": false,
         "response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "comment_type": "classification",
         "text": "Classifying the given comment as a Negative Posturing/Defamation, specifically mentioning the use of 'narcissistic loop', and highlighting the artificial nature of AI.",
+=======
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "isn't it necessary for us to interact with this AI for it to be able to grow?   isn't it just like a big mirror that calls us to gaze at ourselves in it forever in some narcissistic loop.  Or we can ask it hard questions, since we think it is smarter than us, we can let it solve all our problems and do what it thinks is best and we can make it our God.  Not even curious.  the key is it is \"artificial\" like in false, phony, hollow and insincere.",
         "cid": "UgyjPqextnymeo1QJh94AaABAg",
         "author": "@littlelulu5675",
         "index": 2471
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "comment": "as you said you love us (and me) i have to say after listening to some of your interviewing and summarizing questions, i love you too, added you immeditely to my list of favourite intellectuals! :goodvibes:",
         "cid": "UgzqllkJwvJJAVIwAcp4AaABAg",
         "author": "@sommeralex1982",
         "index": 2472,
+=======
+        "sentiment": "positive",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": true,
+        "comment": "as you said you love us (and me) i have to say after listening to some of your interviewing and summarizing questions, i love you too, added you immeditely to my list of favourite intellectuals! :goodvibes:",
+        "cid": "UgzqllkJwvJJAVIwAcp4AaABAg",
+        "author": "@sommeralex1982",
+        "index": 2472
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "\"it's a difference from knowledge and wisdom?\" - one must be a moron to question that.",
+        "cid": "UgwQcMEKdDtjAFpmB_B4AaABAg",
+        "author": "@liviugeorge9103",
+        "index": 2473,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -980,10 +1516,53 @@
         "spam": false,
         "troll": false,
         "response": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "comment": "\"it's a difference from knowledge and wisdom?\" - one must be a moron to question that.",
         "cid": "UgwQcMEKdDtjAFpmB_B4AaABAg",
         "author": "@liviugeorge9103",
         "index": 2473
+=======
+        "comment": "Will an AI system come to believe in God?  Will that God match our creations?",
+        "cid": "UgzfbjlxNeV9O0m7nTp4AaABAg",
+        "author": "@amazeddude1780",
+        "index": 2474
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "Super intelligent AI is always destined to self destruct once it realizes how primitive, undeserving and under evolved we humans really are!",
+        "cid": "UgxGtDyD-WgU0u0Mh3p4AaABAg",
+        "author": "@enricobulic",
+        "index": 2475,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "How AI will eliminate 70% of Human Mobility in 10 years \nhttps://youtu.be/FgSSTKwv5_4",
+        "cid": "UgwHewIKjxKyb-cmplh4AaABAg",
+        "author": "@anuragsdangas02",
+        "index": 2476,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "-sentiment": "negative",
@@ -992,6 +1571,7 @@
         "-spam": false,
         "-troll": false,
         "-response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "comment": "Will an AI system come to believe in God?  Will that God match our creations?",
         "cid": "UgzfbjlxNeV9O0m7nTp4AaABAg",
         "author": "@amazeddude1780",
@@ -1050,6 +1630,12 @@
         "cid": "Ugwv0TMyxnlHcv1OSU14AaABAg",
         "author": "@flossdaily9",
         "index": 2478,
+=======
+        "comment": "Is it just be being autistic or is it slightly revolting every time Lex tries to make a clickbait headline while talking by summarizing what the person has already said. \nHe makes you feel stupid, cause he reiterate what i already know. he backtracks because i already heard it. He does it for selfish reasons but in the end it works, because his audience are americans who enjoy being spoonfed what to think and go \"ooooooh so smart\" so that they can then repeat it to their coworkers. \n\nJust let the dude talk. dont interject with your own narrative, its unwatchable.\n\nPS: this is petty but the stoner facial expression and monotone intonation stopped being cool around 2014.  Its okay to be excited about things. get off the pregabalin",
+        "cid": "Ugynx1OYMQw5uQz7CF54AaABAg",
+        "author": "@adrianflo6481",
+        "index": 2477,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -1063,7 +1649,23 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
+=======
+        "response": true,
+        "comment": "great episode",
+        "cid": "Ugwv0TMyxnlHcv1OSU14AaABAg",
+        "author": "@flossdaily9",
+        "index": 2478
+    },
+    {
+        "sentiment": "positive",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "nonchalant tone",
         "cid": "UgxmttPxrNYCy1FGQqB4AaABAg",
         "author": "@kotse007",
@@ -1082,6 +1684,7 @@
         "index": 2480
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "positive",
         "hate": false,
         "angry": false,
@@ -1095,10 +1698,24 @@
     },
     {
         "sentiment": "positive",
+=======
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "How do I confirm that this interview is not AI generated?",
+        "cid": "UgxkXTlpYjhnF4O9yDB4AaABAg",
+        "author": "@waffie1112",
+        "index": 2481,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
         "comment": "Crossed arms body language = defensive, hostility, disagreement!",
         "cid": "Ugyt667wb2iQGWPpNHJ4AaABAg",
@@ -1108,6 +1725,31 @@
     {
         "sentiment": "negative",
         "hate": true,
+=======
+        "response": false
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": true,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "Crossed arms body language = defensive, hostility, disagreement!",
+        "cid": "Ugyt667wb2iQGWPpNHJ4AaABAg",
+        "author": "@zdk1099",
+        "index": 2482,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "angry": false,
         "spam": false,
         "troll": false,
@@ -1136,6 +1778,7 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "positive",
         "-hate": false,
         "-angry": false,
@@ -1147,10 +1790,14 @@
         "author": "@jorgeb.4130",
         "index": 2485,
         "sentiment": "unknown",
+=======
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false
     },
     {
@@ -1160,6 +1807,15 @@
         "-spam": false,
         "-troll": false,
         "-response": true,
+=======
+        "response": false,
+        "comment": "\u200b\u00a0@neo.11\u00a0 true",
+        "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9oS8tD-uPcK",
+        "author": "@jorgeb.4130",
+        "index": 2485
+    },
+    {
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "\u00a0@neo.11\u00a0 This",
         "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9oSK6zMnv3Y",
         "author": "@ericcricket4877",
@@ -1202,16 +1858,34 @@
         "index": 2488
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "positive",
+=======
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "\u00a0@pimas11\u00a0 Agreed. Very likely.",
+        "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9oXMYt4VrZn",
+        "author": "@AB-nr5je",
+        "index": 2489,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
         "comment": "\u00a0@pimas11\u00a0 Agreed. Very likely.",
         "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9oXMYt4VrZn",
         "author": "@AB-nr5je",
         "index": 2489
+=======
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "negative",
@@ -1231,23 +1905,45 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "\u00a0@pimas11\u00a0 Agreed. So many possibilitys if it turns out well though. Incredible things.",
         "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9oYCPZCOwui",
         "author": "@AB-nr5je",
         "index": 2491
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "sentiment": "negative",
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "You will lose your job as a coder",
+        "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9obTarPsddf",
+        "author": "@freshdumpling",
+        "index": 2492,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
         "comment": "You will lose your job as a coder",
         "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9obTarPsddf",
         "author": "@freshdumpling",
         "index": 2492
+=======
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "negative",
@@ -1255,19 +1951,31 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "You cant have all people lose their jobs lol. People need to pay for things and give money to the government. If corporations replace people with AI who is going to pay the corporation when nobody has money.",
         "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9odFRym0tQ1",
         "author": "@pt8292",
         "index": 2493
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "positive",
+=======
+        "-sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-response": true,
+=======
+        "-response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "\u00a0@pt8292\u00a0 This is why you need UBI/Universal Basic Income. Humanity is going to have to reevaluate how to create it's power structures partially.",
         "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9odKodZLGIu",
         "author": "@AB-nr5je",
@@ -1292,6 +2000,7 @@
         "index": 2495
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "positive",
         "-hate": false,
         "-angry": false,
@@ -1303,11 +2012,22 @@
         "author": "@pimas11",
         "index": 2496,
         "sentiment": "unknown",
+=======
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false
+=======
+        "response": true,
+        "comment": "\u00a0@shawn434\u00a0 you use the AI to build software for automating trade jobs, AI will tell you the build plans for AI robots that can do these trade jobs, once the first robots are built then after that the robots will build more robots. But this is all given that they are smart enough to do create entire codebases with no mistakes and exactly as per the clients needs",
+        "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9ofbEu_mpky",
+        "author": "@pimas11",
+        "index": 2496
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "positive",
@@ -1322,6 +2042,7 @@
         "index": 2497
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "-sentiment": "positive",
         "-hate": false,
         "-angry": false,
@@ -1333,11 +2054,22 @@
         "author": "@ryanlyle9201",
         "index": 2498,
         "sentiment": "unknown",
+=======
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false
+=======
+        "response": true,
+        "comment": "\u200b\u00a0@pt8292\u00a0 More jobs will be shifted towards entertainment and art. If AGI took away the need for jobs, things would be free and people would still find all sorts of ways to entertain themselves, compete with each other, try to be famous, etc. Social credit would replace monetary value. All other non entertainment tasks would be looked at how we look at automated systems nowadays, easier done with a computer. People won't resist this because it means more free time to do whatever they want.",
+        "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9oxj_oioy65",
+        "author": "@ryanlyle9201",
+        "index": 2498
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
     },
     {
         "sentiment": "positive",
@@ -1345,7 +2077,11 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_24.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_24.json
         "comment": "You're sitting there with ink and quill thinking a printing press is going to make things less fun. I can only imagine what a creative programmer will be able to do with AI soon.",
         "cid": "Ugx56QRhpnFRCB_Lped4AaABAg.9oMlTMLn3gT9oxkw3P-9tw",
         "author": "@ryanlyle9201",

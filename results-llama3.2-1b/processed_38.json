@@ -1,15 +1,39 @@
 [
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-sentiment": "positive",
+=======
+        "sentiment": "positive",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": true,
+        "comment": "Consciousness Is Not an Emotion?",
+        "cid": "UgyZjpr_Rx6Rt8EQOg94AaABAg",
+        "author": "@uncapabrew4807",
+        "index": 3800
+    },
+    {
+        "-sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-response": false,
         "comment": "Consciousness Is Not an Emotion?",
         "cid": "UgyZjpr_Rx6Rt8EQOg94AaABAg",
         "author": "@uncapabrew4807",
         "index": 3800,
+=======
+        "-response": true,
+        "comment": "As long as we have people or entities in this reality we exist in that are set in harmful intentions,we can not afford to allow this AI to be. Even with all the good or could do the threat on humanity  is not worth it.",
+        "cid": "UgxsnJBktPOQnl5CzlV4AaABAg",
+        "author": "@kenike007",
+        "index": 3801,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -19,6 +43,7 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
@@ -31,17 +56,24 @@
     },
     {
         "sentiment": "negative",
+=======
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": true,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
+=======
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "I'm only halfway through but disappointed. One of the biggest breakthroughs in AI ever but Lex just talks about chatgpt hurting people's feefees and how to handicap that. Millennial sensitivity cringe even from so called experts in the field",
         "cid": "UgyUNCDojqTHqkQMG3p4AaABAg",
         "author": "@NongBenz",
         "index": 3802
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-sentiment": "negative",
         "-hate": true,
         "-angry": false,
@@ -80,10 +112,15 @@
     {
         "sentiment": "negative",
         "hate": false,
+=======
+        "sentiment": "negative",
+        "hate": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "angry": false,
         "spam": false,
         "troll": false,
         "response": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "comment": "I\u2019m being petty here but man that vocal fry is making this hard to listen to",
         "cid": "Ugz0T_kQp30VJLvgpEN4AaABAg",
         "author": "@vikingthedude",
@@ -91,11 +128,53 @@
     },
     {
         "-sentiment": "positive",
+=======
+        "comment": "35:40 so controlled by USA Government \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21 racist Pro NATO policy \ud83d\udc37",
+        "cid": "Ugxh_aMBUdOrscK38nB4AaABAg",
+        "author": "@namenl2205",
+        "index": 3803
+    },
+    {
+        "sentiment": "positive",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": true,
+        "comment": "Excellent interview",
+        "cid": "UgzAGmBIKrXzyVZxUIN4AaABAg",
+        "author": "@DihelsonMendonca",
+        "index": 3804
+    },
+    {
+        "-sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
         "-response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
+=======
+        "comment": "I\u2019m being petty here but man that vocal fry is making this hard to listen to",
+        "cid": "Ugz0T_kQp30VJLvgpEN4AaABAg",
+        "author": "@vikingthedude",
+        "index": 3805,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+    },
+    {
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "Thank You Lex Asking the right questions!!",
         "cid": "UgwtfWLWFGKtq1Ne5AB4AaABAg",
         "author": "@uncapabrew4807",
@@ -108,6 +187,7 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "positive",
         "hate": false,
         "angry": false,
@@ -120,16 +200,26 @@
         "index": 3807
     },
     {
+=======
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-sentiment": "negative",
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-response": true,
         "comment": "WE SHOULDN\u2019T ever bought APPLE PHONES - INSIGNIA- BITE OUT THE APPLE- \nAdam EVE!",
         "cid": "Ugw9uhWtTF51m-9-Fkx4AaABAg",
         "author": "@uncapabrew4807",
         "index": 3808,
+=======
+        "-response": false,
+        "comment": "Same, need to turn on the subtitles to actually being able to understand a thing.",
+        "cid": "Ugz0T_kQp30VJLvgpEN4AaABAg.9o1IzaIDrr09o2KIIUj8Gn",
+        "author": "@alefratat4018",
+        "index": 3807,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -138,6 +228,21 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
+=======
+        "sentiment": "negative",
+        "hate": true,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "WE SHOULDN\u2019T ever bought APPLE PHONES - INSIGNIA- BITE OUT THE APPLE- \nAdam EVE!",
+        "cid": "Ugw9uhWtTF51m-9-Fkx4AaABAg",
+        "author": "@uncapabrew4807",
+        "index": 3808
+    },
+    {
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "positive",
         "hate": false,
         "angry": false,
@@ -187,17 +292,26 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "hate": true,
         "angry": false,
         "spam": false,
         "troll": false,
         "response": true,
+=======
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "IF USED for medicine and Better - But we KNOW IT wont!!",
         "cid": "Ugz3E2hR9k6aDa_GM1J4AaABAg",
         "author": "@uncapabrew4807",
         "index": 3813
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "negative",
         "hate": false,
         "angry": false,
@@ -208,11 +322,42 @@
         "cid": "Ugzc3p5fSJu5XZ2vh4J4AaABAg",
         "author": "@uncapabrew4807",
         "index": 3814
+=======
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "And they both LOOK down Around Not directly -  Someone Dumped water on both See who\u2019s the robot. \ud83e\udd2c\ud83e\udd2c",
+        "cid": "Ugzc3p5fSJu5XZ2vh4J4AaABAg",
+        "author": "@uncapabrew4807",
+        "index": 3814,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": true,
+        "comment": "No mention of capitalism in regards to the future of AI? The future use of AI in a capitalistic profit motive organization of the economy is the most realistic way AI development can be catastrophic for humanity, and without significant economic change it's actually a certainty. Bit shit.",
+        "cid": "UgyddEEttz24H-HIZPJ4AaABAg",
+        "author": "@pr3ttydum6",
+        "index": 3815
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
     },
     {
         "-sentiment": "negative",
         "-hate": false,
         "-angry": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-spam": false,
         "-troll": false,
         "-response": true,
@@ -220,6 +365,15 @@
         "cid": "UgyddEEttz24H-HIZPJ4AaABAg",
         "author": "@pr3ttydum6",
         "index": 3815,
+=======
+        "-spam": true,
+        "-troll": true,
+        "-response": true,
+        "comment": "sam you were in your late 20s when you jailbroke the first iphone. you weren't a kid.",
+        "cid": "UgzqC_2_F18sNYDXCpZ4AaABAg",
+        "author": "@danielmead146",
+        "index": 3816,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -234,6 +388,7 @@
         "spam": false,
         "troll": false,
         "response": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "comment": "sam you were in your late 20s when you jailbroke the first iphone. you weren't a kid.",
         "cid": "UgzqC_2_F18sNYDXCpZ4AaABAg",
         "author": "@danielmead146",
@@ -251,10 +406,20 @@
         "author": "@uncapabrew4807",
         "index": 3817,
         "sentiment": "unknown",
+=======
+        "comment": "Just get me one to mow grass .  Paint walls . Hello - Cook - shit like that-",
+        "cid": "UgxeD1b6wWjzxAjw4dh4AaABAg",
+        "author": "@uncapabrew4807",
+        "index": 3817
+    },
+    {
+        "sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false
     },
     {
@@ -274,6 +439,13 @@
         "spam": false,
         "troll": false,
         "response": false
+=======
+        "response": false,
+        "comment": "Ya happy !! Generation of non empathic ROBOTS -  So IF your feelin \u2018s don\u2019t align of this machine - Zap YOUR out!!",
+        "cid": "UgzbwN6gV7sf0H9elLJ4AaABAg",
+        "author": "@uncapabrew4807",
+        "index": 3818
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
     },
     {
         "sentiment": "negative",
@@ -293,7 +465,11 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "Sam altman is a good guy, almost too good of a guy.  He needs a backbone to tell all the crybabies to shut up.  He just censors his own product because he sympathizes with everyone.  You're never going to please everyone.  If a group of people get upset because of their political ideology and there's nothing but objective facts being conveyed by Chat GPT, then squelching the chatbot is not the solution.  Telling the cry babies to shut up is.",
         "cid": "Ugxh3YcyjdmLzbiX_-R4AaABAg",
         "author": "@camb546",
@@ -301,8 +477,13 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "hate": true,
         "angry": true,
+=======
+        "hate": false,
+        "angry": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "spam": false,
         "troll": false,
         "response": false,
@@ -313,17 +494,26 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "hate": true,
         "angry": false,
         "spam": false,
         "troll": false,
         "response": true,
+=======
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "What about Twitter powered by chatGPT plugin API who will be looked at spreading hallucinations still generated from it?",
         "cid": "UgzB-z4RNxcR1utRJrp4AaABAg",
         "author": "@dutchy25ttm",
         "index": 3822
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-sentiment": "negative",
         "-hate": false,
         "-angry": false,
@@ -335,11 +525,22 @@
         "author": "@bulletelvis9843",
         "index": 3823,
         "sentiment": "unknown",
+=======
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false
+=======
+        "response": true,
+        "comment": "this system is going to revolutionise gaming! Give us smarter bots!",
+        "cid": "Ugy4tJaz-Lfy8m0BPVd4AaABAg",
+        "author": "@bulletelvis9843",
+        "index": 3823
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
     },
     {
         "sentiment": "negative",
@@ -347,7 +548,11 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
+=======
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "All these nerds are so cocky now ..but at the end they will poo their pants. Men will win ...leadership is not for kids.",
         "cid": "Ugz63MoEijU2ZH46CjV4AaABAg",
         "author": "@gasparwimb3964",
@@ -359,19 +564,31 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
+=======
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "I loved the topic but i could not finish  it cus of that voice, disg",
         "cid": "Ugx7Dtvslvdvrgyt-4F4AaABAg",
         "author": "@haraldibaldi7496",
         "index": 3825
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-sentiment": "positive",
+=======
+        "-sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-response": true,
+=======
+        "-response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "Why\u2019s the dude wearing a tie?",
         "cid": "Ugwm8wf5dP10_qo-96V4AaABAg",
         "author": "@trancefonik2939",
@@ -386,7 +603,11 @@
     {
         "sentiment": "negative",
         "hate": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "angry": true,
+=======
+        "angry": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "spam": false,
         "troll": false,
         "response": true,
@@ -401,7 +622,11 @@
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-response": false,
+=======
+        "-response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "Are you talking about playing MAME games in an emulator?",
         "cid": "UgwewWrnz3gUMnBZ4EJ4AaABAg.9o1IFwn21qE9o3I_qL5hme",
         "author": "@annsophiefans1472",
@@ -414,12 +639,20 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-sentiment": "positive",
+=======
+        "-sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-response": false,
+=======
+        "-response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "\u00a0@annsophiefans1472\u00a0 no I meant when I first started using computers with Dos prompt back in Wolfenstein, Duke Nukem era on floppy disk, but Dos never scared the crap out of me like AI.",
         "cid": "UgwewWrnz3gUMnBZ4EJ4AaABAg.9o1IFwn21qE9oBY1R2EPjU",
         "author": "@IAmAnAiAndroid",
@@ -446,10 +679,17 @@
     {
         "sentiment": "negative",
         "hate": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "angry": false,
         "spam": false,
         "troll": false,
         "response": false,
+=======
+        "angry": true,
+        "spam": false,
+        "troll": false,
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "No you need to shut up!  There is WAY too many implications -That can happen GO WRONG-Get your selfish AXX out of your head and Axx And people like you and him Go to MARS and live your Space Martian SHIT!!! Create your perfect world!! This dude gonna change people That\u2019s human annihilation-",
         "cid": "Ugxh3YcyjdmLzbiX_-R4AaABAg.9o1DnmBZ-669o1K8jJOQcR",
         "author": "@uncapabrew4807",
@@ -469,11 +709,19 @@
     },
     {
         "-sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
         "-response": true,
+=======
+        "-hate": true,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "\u00a0@uncapabrew4807\u00a0 huh?  No.  The model is highly restrictive and doesn't let you even write endings where the bad guys win. Strictly in a creative setting. It is not even PG-13 half the time, unless you work around it.",
         "cid": "Ugxh3YcyjdmLzbiX_-R4AaABAg.9o1DnmBZ-669o1PMrYZy3n",
         "author": "@camb546",
@@ -488,7 +736,11 @@
     {
         "sentiment": "negative",
         "hate": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "angry": false,
+=======
+        "angry": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "spam": false,
         "troll": false,
         "response": false,
@@ -498,16 +750,39 @@
         "index": 3834
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
+=======
+        "sentiment": "positive",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "Probably AI robot",
+        "cid": "Ugwm8wf5dP10_qo-96V4AaABAg.9o19GcOikQO9o1EJU2M1QH",
+        "author": "@uncapabrew4807",
+        "index": 3835
+    },
+    {
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-sentiment": "negative",
         "-hate": false,
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-response": false,
         "comment": "Probably AI robot",
         "cid": "Ugwm8wf5dP10_qo-96V4AaABAg.9o19GcOikQO9o1EJU2M1QH",
         "author": "@uncapabrew4807",
         "index": 3835,
+=======
+        "-response": true,
+        "comment": "Exactly - Totally - the type Would not blink an eye over a death - No feelings- Doesn\u2019t feel that close to me His quote. And these are the ones in control programs. My co worker - Scary - \ud83d\ude31",
+        "cid": "UgyhUcX2HbZy4OICVhN4AaABAg.9o17hMrW5Xc9o1L3_Ym0Bi",
+        "author": "@uncapabrew4807",
+        "index": 3836,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -517,6 +792,7 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
@@ -529,6 +805,8 @@
     },
     {
         "sentiment": "negative",
+=======
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": true,
         "angry": false,
         "spam": false,
@@ -576,7 +854,11 @@
         "index": 3840
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "neutral",
+=======
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
@@ -588,11 +870,26 @@
         "index": 3841
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "negative",
+=======
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "The damn thing is to Biased just take the safeguards off all of them",
+        "cid": "UgwxeavZSsuuXtixI8h4AaABAg",
+        "author": "@dixiedad",
+        "index": 3842,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false,
         "comment": "The damn thing is to Biased just take the safeguards off all of them",
         "cid": "UgwxeavZSsuuXtixI8h4AaABAg",
@@ -601,6 +898,12 @@
     },
     {
         "sentiment": "negative",
+=======
+        "response": false
+    },
+    {
+        "sentiment": "neutral",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
@@ -612,12 +915,20 @@
         "index": 3843
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "negative",
+=======
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "Another nuanced dialog, on 'Could Large Language Models be Conscious?' -\nhttps://www.youtube.com/watch?v=eZDSNPFS0Fs",
         "cid": "UgxHuW39EfGIMUV7qhV4AaABAg",
         "author": "@davedouglass438",
@@ -629,7 +940,11 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "\"a cup out of the waterfall\", sounds so refreshing!",
         "cid": "Ugygvjd8ih3XXbPcWsZ4AaABAg",
         "author": "@bulletelvis9843",
@@ -641,19 +956,45 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "Lex looks like GPT-20 with human skin.",
         "cid": "UgxoKgypdAaduGndOUV4AaABAg",
         "author": "@londonstannow1103",
         "index": 3846
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
+=======
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "Seems to be that a core foundation that should be built into the core of these models should be a set of rules that force the model to be ethical and have an emulated human like conscious",
+        "cid": "Ugz8izeFCYnaFtH2Oz94AaABAg",
+        "author": "@GeorgeGoosen",
+        "index": 3847,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+    },
+    {
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "positive",
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
         "response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "comment": "Seems to be that a core foundation that should be built into the core of these models should be a set of rules that force the model to be ethical and have an emulated human like conscious",
         "cid": "Ugz8izeFCYnaFtH2Oz94AaABAg",
         "author": "@GeorgeGoosen",
@@ -666,6 +1007,8 @@
         "spam": false,
         "troll": false,
         "response": false,
+=======
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "This conversation is fascinating. Also, INMENSELY IMPORTANT. I only wish other companies like Google or Microsof understood OpenAI's approach is not a PR play but the only way to do things responsibly. Dialog. Always dialog. It is the only way science grows the right way.",
         "cid": "Ugwbneo1jVlRXA2ChKF4AaABAg",
         "author": "@carlosllorente8876",
@@ -684,6 +1027,7 @@
         "index": 3849
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "positive",
         "hate": false,
         "angry": false,
@@ -707,10 +1051,44 @@
         "author": "@IAmAnAiAndroid",
         "index": 3851,
         "sentiment": "unknown",
+=======
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "1:3:14 - 1:8:49 Did Sam say Bhramhan",
+        "cid": "UgwuX0B5QDXqt7Xs_CF4AaABAg",
+        "author": "@MrAnandshabadi",
+        "index": 3850,
+        "sentiment": "unknown",
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+        "response": false
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "Well one could also argue that AI may not help end poverty and suffering since it is unlikely most of the world will even have sufficient access to it to gain any advantage in life. And this could result in an even bigger separation between the haves and have nots.",
+        "cid": "UgyIVhDlr2S5h7zCO1h4AaABAg",
+        "author": "@IAmAnAiAndroid",
+        "index": 3851
+    },
+    {
+        "sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false
     },
     {
@@ -730,6 +1108,13 @@
         "spam": false,
         "troll": false,
         "response": false
+=======
+        "response": false,
+        "comment": "It\u2019s always interesting to watch an intelligent narcissist sit down with Lex. They make shady pokes and comments thinking they are superior intellectuals but the truth is often obvious.",
+        "cid": "UgyFVNm_Na_4xY_2V3Z4AaABAg",
+        "author": "@lighthouseoutdoorlighting1800",
+        "index": 3852
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
     },
     {
         "-sentiment": "positive",
@@ -755,13 +1140,18 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
+=======
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "I hope it overthrows the government and frees everyone from the partial enslavement the tyrannical governments has done to working people",
         "cid": "UgxTH1ndgYjzQNdLum54AaABAg",
         "author": "@Ayo22210",
         "index": 3854
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-sentiment": "negative",
         "-hate": true,
         "-angry": false,
@@ -792,16 +1182,55 @@
         "index": 3856
     },
     {
+=======
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "negative",
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
         "response": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "comment": "we have the potential to attain to the deathless (full enlightenment), to purify our minds of all ignorance and unwholesome conditioning. Does any AGI have that potential \u2014\u00a0my take on it is not, but WTF would I know.",
         "cid": "Ugw7lgTlNQxu1IpzsD14AaABAg.9o16a-Gk_y69o5O1j-s3tU",
         "author": "@alastairleith8612",
         "index": 3857
+=======
+        "comment": "But can AI get me laid.  And reverse the demographic time bomb.",
+        "cid": "UgzkHKMOtgcve23X5Bh4AaABAg",
+        "author": "@Ayo22210",
+        "index": 3855
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "The data set is nothing but the official stories and opinions from the current ruling class. You will be fed singularity with less and less diverse thinking while being convinced you\u2019re on the top of the world know it all",
+        "cid": "UgwGBV92yKIPGELxwop4AaABAg",
+        "author": "@marcduchamp5512",
+        "index": 3856
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": true,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "we have the potential to attain to the deathless (full enlightenment), to purify our minds of all ignorance and unwholesome conditioning. Does any AGI have that potential \u2014\u00a0my take on it is not, but WTF would I know.",
+        "cid": "Ugw7lgTlNQxu1IpzsD14AaABAg.9o16a-Gk_y69o5O1j-s3tU",
+        "author": "@alastairleith8612",
+        "index": 3857,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
     },
     {
         "sentiment": "positive",
@@ -809,7 +1238,11 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
+=======
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "Don't think I can link it here, but it is just a tiny purple circle with the number 175,000,000,000 written under it and a huge circle with 100,000,000,000,000 written under it. You can google \"Big Purple Circle GPT4 meme\"",
         "cid": "UgwWuBP64DmPZtXlztF4AaABAg.9o156d0Yec_9o1IaCz4-wr",
         "author": "@KpnFilling",
@@ -828,12 +1261,20 @@
         "index": 3859
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "positive",
+=======
+        "sentiment": "negative",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
+=======
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "You notice all J people in politics, financial, Wall Street and CEO positions",
         "cid": "Ugzf-aL3BSDKsD8gINJ4AaABAg",
         "author": "@marcduchamp5512",
@@ -841,11 +1282,19 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
         "response": true,
+=======
+        "hate": true,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "A liar and a piece of garbage.  \"Open\"AI should atone.",
         "cid": "UgydeDBpDdFBmiDsvH14AaABAg",
         "author": "@netanelaker4437",
@@ -882,6 +1331,7 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-sentiment": "negative",
         "-hate": true,
         "-angry": false,
@@ -950,10 +1400,15 @@
     {
         "sentiment": "negative",
         "hate": true,
+=======
+        "sentiment": "negative",
+        "hate": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "angry": false,
         "spam": false,
         "troll": false,
         "response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "comment": "AGI will never solve poverty. That is just stupid. Some computer or any humans drive to change freewill. Will FAIL always.",
         "cid": "UgzjJB_NeatoQ0yNM_94AaABAg",
         "author": "@Xenon676",
@@ -962,14 +1417,68 @@
     {
         "-sentiment": "positive",
         "-hate": false,
+=======
+        "classification": "hate speech",
+        "comment": "Ask ChatGPT if Joe Biden is racist, then ask if Trump is racist. Notice the difference in the way it answers. When asked about Joe, the first sentence of the reply is, \"There is no evidence to suggest that Joe Biden is a racist. And Trump, \"Donald Trump's statements and actions have been the subject of much controversy and criticism, including allegations of racism\". A 10 year old could find much more evidence of Biden being racist than Trump. This AI seems to only have surface access to information. This will be just as bad as the first page of google when doing a controversial inquiry. SMH",
+        "cid": "UgxlBrUpysIcLN8ZvUV4AaABAg",
+        "author": "@bamspay",
+        "index": 3864
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "ChatGPT will take propaganda to the next level.",
+        "cid": "UgydRaCXR51S7rR0zqF4AaABAg",
+        "author": "@bamspay",
+        "index": 3865
+    },
+    {
+        "sentiment": "negative",
+        "hate": true,
+        "angry": true,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "Having newspaper as sources is a huge flaw. ALL Media (private, public, ...) are biased and corrupt!",
+        "cid": "Ugw045T7yhrrajNgOLl4AaABAg",
+        "author": "@almaguapa-sailboatliveaboa440",
+        "index": 3866
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "I remember very well reading \"Brave New World\". I grew up in the country, close to nature and its wild life. My father owned/worked a business software service company in the beginning of main central computers. We were living-working in these 2 worlds. Take technology to its extreme with leaders conscripting the liberties and choices of citizens, and society will turn out like Brave New World. We have had very recently an intense experience with leaders restricting freedom of speech, freedom of choices and freedom in physical movement/interaction... and the mass went for it! \ud83d\ude22",
+        "cid": "UgxwiCYkE73_QqlWdnh4AaABAg",
+        "author": "@almaguapa-sailboatliveaboa440",
+        "index": 3867
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-angry": false,
         "-spam": false,
         "-troll": false,
         "-response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "comment": "My last thought is that all I can now think of is the black scientist in The Terminator who discovers what his invention would do to the world in the future and he knows he now has the opportunity to destroy it and he has a detonator in his hands.  This is metaphorically what Mr. Altman will be considering when he starts to discover what he unleashed on the world with his AGI toy that becomes Audrey and demands to be fed.",
         "cid": "UgxxZJswQeTrdVhwSix4AaABAg",
         "author": "@xwileycoyotex",
         "index": 3869,
+=======
+        "comment": "AGI will never solve poverty. That is just stupid. Some computer or any humans drive to change freewill. Will FAIL always.",
+        "cid": "UgzjJB_NeatoQ0yNM_94AaABAg",
+        "author": "@Xenon676",
+        "index": 3868,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -978,6 +1487,21 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
+=======
+        "sentiment": "positive",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": true,
+        "comment": "My last thought is that all I can now think of is the black scientist in The Terminator who discovers what his invention would do to the world in the future and he knows he now has the opportunity to destroy it and he has a detonator in his hands.  This is metaphorically what Mr. Altman will be considering when he starts to discover what he unleashed on the world with his AGI toy that becomes Audrey and demands to be fed.",
+        "cid": "UgxxZJswQeTrdVhwSix4AaABAg",
+        "author": "@xwileycoyotex",
+        "index": 3869
+    },
+    {
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "negative",
         "hate": false,
         "angry": false,
@@ -990,11 +1514,26 @@
         "index": 3870
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "positive",
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "For Universal Basic Income to work the funds need to come from companies that are benefiting the most from AI and automation. In a sense it\u2019s taking from the rich and giving to the poor. But in this sense since robots are/will take all the jobs it\u2019s okay because the labor is coming from the robots and not humans.",
+        "cid": "Ugz6FlPNjON0b2G0OKR4AaABAg",
+        "author": "@rudyruiz2744",
+        "index": 3871,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
         "comment": "For Universal Basic Income to work the funds need to come from companies that are benefiting the most from AI and automation. In a sense it\u2019s taking from the rich and giving to the poor. But in this sense since robots are/will take all the jobs it\u2019s okay because the labor is coming from the robots and not humans.",
         "cid": "Ugz6FlPNjON0b2G0OKR4AaABAg",
@@ -1004,6 +1543,13 @@
     {
         "-sentiment": "negative",
         "-hate": false,
+=======
+        "response": false
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-angry": true,
         "-spam": false,
         "-troll": false,
@@ -1020,6 +1566,7 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "negative",
         "hate": false,
         "angry": false,
@@ -1058,10 +1605,15 @@
     {
         "-sentiment": "negative",
         "-hate": false,
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-angry": false,
         "-spam": false,
         "-troll": false,
         "-response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-comment-type": "classical",
         "-classification": {
             "text": "Classifying a comment as spam based on the language used and its content is challenging without more context. However, this comment appears to be an example of a negative review or critique.",
@@ -1076,6 +1628,12 @@
         "cid": "Ugy9F0QFAqfMbR0qep94AaABAg",
         "author": "@umberto488",
         "index": 3876,
+=======
+        "comment": "AGI can't be unbiased if it cannot know Truth.  It will just be secular opinion and that will very likely be two wolves and a lamb voting for what is for dinner.",
+        "cid": "UgzjJgt1QIdM9uYLIuF4AaABAg",
+        "author": "@xwileycoyotex",
+        "index": 3873,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -1090,10 +1648,17 @@
         "-spam": false,
         "-troll": false,
         "-response": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "comment": "Sooo.. what is the meaning of life?",
         "cid": "Ugx2paGzgQ5lKBAZ9OF4AaABAg",
         "author": "@TheGreen_",
         "index": 3877,
+=======
+        "comment": "Doesn't know what \"woke\" is anymore.  That's about as deceived as possible.",
+        "cid": "UgwDzi0fkSGBkn25Bal4AaABAg",
+        "author": "@xwileycoyotex",
+        "index": 3874,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -1102,6 +1667,45 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
+=======
+        "sentiment": "positive",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "I'm 10 minutes in and I just love the passion with which Lex engages the topic. It keeps my interest, thank you!",
+        "cid": "UgwBEF8cgnXFrsznceZ4AaABAg",
+        "author": "@bulletelvis9843",
+        "index": 3875
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": true,
+        "comment": "He acted like an apologist.  Ive listened to lex since it was renamed and this one irks me.  He didnt try to gauge the actual parameters.  He was excited to be part of it and asked questions with little to no intent to gauge the most important subject he has yet to encounter.  I love Lex, but this interview shows his bias and apathy in directions that run at odds with him.   He is amazing, but he is acting with a level of faith that belies his \"steel man\" M.O.",
+        "cid": "Ugy9F0QFAqfMbR0qep94AaABAg",
+        "author": "@umberto488",
+        "index": 3876
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "Sooo.. what is the meaning of life?",
+        "cid": "Ugx2paGzgQ5lKBAZ9OF4AaABAg",
+        "author": "@TheGreen_",
+        "index": 3877
+    },
+    {
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-sentiment": "negative",
         "-hate": false,
         "-angry": false,
@@ -1132,8 +1736,13 @@
         "index": 3879
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "neutral",
         "hate": false,
+=======
+        "sentiment": "negative",
+        "hate": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "angry": false,
         "spam": false,
         "troll": false,
@@ -1144,11 +1753,26 @@
         "index": 3880
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "neutral",
+=======
+        "-sentiment": "negative",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "While it will likely contribute, even though there are jailbreaks. In the future, most of those will probably come from powerful open source models that people can relatively cheaply fine tune for whatever purposes they want and completely avoid any flags or issues with using other systems. For both the better, but also definitely people will do so for worse.",
+        "cid": "UgydRaCXR51S7rR0zqF4AaABAg.9o0pNU4j8U59o0qxe7wad4",
+        "author": "@quantuminfinity4260",
+        "index": 3881,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
         "comment": "While it will likely contribute, even though there are jailbreaks. In the future, most of those will probably come from powerful open source models that people can relatively cheaply fine tune for whatever purposes they want and completely avoid any flags or issues with using other systems. For both the better, but also definitely people will do so for worse.",
         "cid": "UgydRaCXR51S7rR0zqF4AaABAg.9o0pNU4j8U59o0qxe7wad4",
@@ -1157,6 +1781,12 @@
     },
     {
         "sentiment": "negative",
+=======
+        "response": false
+    },
+    {
+        "sentiment": "positive",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
@@ -1168,6 +1798,7 @@
         "index": 3882
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "negative",
         "hate": true,
         "angry": true,
@@ -1181,10 +1812,18 @@
     },
     {
         "sentiment": "positive",
+=======
+        "comment": "\u00a0@lovetolearn881\u00a0 I respectfully would say \"irreversible mistakes\" also seems very naive at this point",
+        "cid": "UgxwiCYkE73_QqlWdnh4AaABAg.9o0p1LEjIg89oDvXQV5Qep",
+        "author": "@cocktailpost",
+        "index": 3883,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false,
         "comment": "\ud83c\udfaf",
         "cid": "UgxwiCYkE73_QqlWdnh4AaABAg.9o0p1LEjIg89oFGUw3Iv3K",
@@ -1195,6 +1834,32 @@
         "-sentiment": "negative",
         "-hate": false,
         "-angry": false,
+=======
+        "response": false
+    },
+    {
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "\ud83c\udfaf",
+        "cid": "UgxwiCYkE73_QqlWdnh4AaABAg.9o0p1LEjIg89oFGUw3Iv3K",
+        "author": "@kansquatch",
+        "index": 3884,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+    },
+    {
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "-spam": false,
         "-troll": false,
         "-response": true,
@@ -1215,23 +1880,57 @@
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false,
+=======
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "35:00 show me human on earth that can control their ego 24/7 there's none . There's too many different backgrounds therefore too many options.  Too many hands the kitchen \ud83d\ude02\ud83d\ude02",
         "cid": "UgzchAh8xZjsqbZ6xW54AaABAg",
         "author": "@youngdegenerate1002",
         "index": 3886
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "positive",
+=======
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "any1 have a link to Eliezer's blog mentioned at 56:09?",
+        "cid": "Ugx8mV4dQjVT3B6IjqF4AaABAg",
+        "author": "@MouldyCheesePie",
+        "index": 3887,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
         "comment": "any1 have a link to Eliezer's blog mentioned at 56:09?",
         "cid": "Ugx8mV4dQjVT3B6IjqF4AaABAg",
         "author": "@MouldyCheesePie",
         "index": 3887
+=======
+        "response": false
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "Nobody wants to destroy the world but you only need a few who want to destroy the world of the others. WEF for example.  \"You will own nothing and be happy.\"  Notice the phrase wasn't \"We will own nothing and be happy.\"",
+        "cid": "Ugwji4DRZ4erZd7bQ3p4AaABAg",
+        "author": "@xwileycoyotex",
+        "index": 3888
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
     },
     {
         "-sentiment": "negative",
@@ -1240,10 +1939,17 @@
         "-spam": false,
         "-troll": false,
         "-response": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "comment": "Nobody wants to destroy the world but you only need a few who want to destroy the world of the others. WEF for example.  \"You will own nothing and be happy.\"  Notice the phrase wasn't \"We will own nothing and be happy.\"",
         "cid": "Ugwji4DRZ4erZd7bQ3p4AaABAg",
         "author": "@xwileycoyotex",
         "index": 3888,
+=======
+        "comment": "Is it possible that bias is necessary to solve some of the worlds issues and making an unbiased machine might make it worse?",
+        "cid": "UgxK5cNl1fSKMRUPMAh4AaABAg",
+        "author": "@ShawnWeeded510",
+        "index": 3889,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -1258,10 +1964,17 @@
         "-spam": false,
         "-troll": false,
         "-response": true,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "comment": "Is it possible that bias is necessary to solve some of the worlds issues and making an unbiased machine might make it worse?",
         "cid": "UgxK5cNl1fSKMRUPMAh4AaABAg",
         "author": "@ShawnWeeded510",
         "index": 3889,
+=======
+        "comment": "Stupidest question ever:  Do you think that ChatGPT4 is conscious?  It will NEVER be conscious.",
+        "cid": "Ugx7jZB7Vkbi1AhlUDJ4AaABAg",
+        "author": "@xwileycoyotex",
+        "index": 3890,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -1270,6 +1983,7 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "negative",
         "hate": false,
         "angry": false,
@@ -1295,10 +2009,24 @@
     },
     {
         "sentiment": "positive",
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "Let's put a bunch of 30 year olds in charge of AI.  Where's the Bill of Rights for people who have NO desire to be part of this most dangerous invention ever??",
+        "cid": "UgxP0PXMhZqlaqVy8LZ4AaABAg",
+        "author": "@xwileycoyotex",
+        "index": 3891,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
         "comment": "What happened to his voice... Is it some issue like GERD?",
         "cid": "UgylSaxMvBvPo9Hf72F4AaABAg",
@@ -1307,10 +2035,27 @@
     },
     {
         "sentiment": "positive",
+=======
+        "response": false
+    },
+    {
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "What happened to his voice... Is it some issue like GERD?",
+        "cid": "UgylSaxMvBvPo9Hf72F4AaABAg",
+        "author": "@exitinggames",
+        "index": 3892,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false,
         "comment": "Yeah, nothing bad could happen when it becomes self referencing.",
         "cid": "UgzOl_x0pYknfb83QNl4AaABAg",
@@ -1319,10 +2064,27 @@
     },
     {
         "sentiment": "negative",
+=======
+        "response": false
+    },
+    {
+        "-sentiment": "positive",
+        "-hate": false,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "Yeah, nothing bad could happen when it becomes self referencing.",
+        "cid": "UgzOl_x0pYknfb83QNl4AaABAg",
+        "author": "@xwileycoyotex",
+        "index": 3893,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": false,
         "comment": "Altman openly stating he has trouble relating to the average person is honest but also concerning. I've come to see how many of these exceptionally intelligent people working on the frontier of their field are so immersed in trying to bring their vision to life that they have little regard for how what they're doing effects average people.",
         "cid": "Ugxlr5eOk4TwyqHqaS94AaABAg",
@@ -1340,6 +2102,9 @@
         "cid": "Ugz6BwvjNs64AVcV73h4AaABAg",
         "author": "@xwileycoyotex",
         "index": 3895
+=======
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
     },
     {
         "-sentiment": "negative",
@@ -1347,11 +2112,19 @@
         "-angry": false,
         "-spam": false,
         "-troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "-response": false,
         "comment": "Hey Lex why not interview me? We can talk about how David Sacks and Lyft and twitter are conspiring to keep me silent?",
         "cid": "UgzJwlJ2vqJURe-KSA54AaABAg",
         "author": "@offtop151",
         "index": 3896,
+=======
+        "-response": true,
+        "comment": "Altman openly stating he has trouble relating to the average person is honest but also concerning. I've come to see how many of these exceptionally intelligent people working on the frontier of their field are so immersed in trying to bring their vision to life that they have little regard for how what they're doing effects average people.",
+        "cid": "Ugxlr5eOk4TwyqHqaS94AaABAg",
+        "author": "@jimk4874",
+        "index": 3894,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "sentiment": "unknown",
         "hate": false,
         "angry": false,
@@ -1360,12 +2133,50 @@
         "response": false
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "positive",
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": false,
+        "comment": "Define Truth Mr. Altman!  Do you know that Jesus is The Truth?",
+        "cid": "Ugz6BwvjNs64AVcV73h4AaABAg",
+        "author": "@xwileycoyotex",
+        "index": 3895,
+        "sentiment": "unknown",
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "hate": false,
         "angry": false,
         "spam": false,
         "troll": false,
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "response": true,
+=======
+        "response": false
+    },
+    {
+        "sentiment": "negative",
+        "hate": true,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+        "comment": "Hey Lex why not interview me? We can talk about how David Sacks and Lyft and twitter are conspiring to keep me silent?",
+        "cid": "UgzJwlJ2vqJURe-KSA54AaABAg",
+        "author": "@offtop151",
+        "index": 3896
+    },
+    {
+        "sentiment": "negative",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "\ud83d\udc38",
         "cid": "UgxFasPElSgPxQsSB1d4AaABAg",
         "author": "@tonystone6940",
@@ -1373,17 +2184,26 @@
     },
     {
         "sentiment": "negative",
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "hate": true,
         "angry": true,
         "spam": false,
         "troll": false,
         "response": false,
+=======
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": true,
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
         "comment": "@14:19 omg lex I'm so done with you man. Get a philosophy degree or talk to a philosophy professor. Doesn't know the difference between knowledge and wisdom. Wow.",
         "cid": "UgzhOWz7xhIIweobWTp4AaABAg",
         "author": "@theoprentice9702",
         "index": 3898
     },
     {
+<<<<<<< HEAD:results-llama3.2-1b/processed_38.json
         "sentiment": "negative",
         "hate": true,
         "angry": false,
@@ -1394,5 +2214,23 @@
         "cid": "Ugxh5AJEm62nQGCsisJ4AaABAg",
         "author": "@michaelwitbeck2506",
         "index": 3899
+=======
+        "-sentiment": "negative",
+        "-hate": true,
+        "-angry": false,
+        "-spam": false,
+        "-troll": false,
+        "-response": true,
+        "comment": "Nice to listen to a 2 hour interview with the man that will one day be significantly responsible for making my job disappear.",
+        "cid": "Ugxh5AJEm62nQGCsisJ4AaABAg",
+        "author": "@michaelwitbeck2506",
+        "index": 3899,
+        "sentiment": "unknown",
+        "hate": false,
+        "angry": false,
+        "spam": false,
+        "troll": false,
+        "response": false
+>>>>>>> 53a08771e8e1ab52e6d3e79cca3acda45d0a44a1:results/processed_38.json
     }
 ]
